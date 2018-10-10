@@ -1,0 +1,14 @@
+{
+    "name": "fbapp",
+    "type": "project",
+    "require": {
+        "facebook/php-business-sdk": "^3.0.0",
+        "facebook/graph-sdk": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Hashan Kavinda",
+            "email": "hashan.dodangoda@my.sliit.lk"
+        }
+    ]
+}
