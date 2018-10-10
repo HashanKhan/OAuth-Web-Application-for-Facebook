@@ -21,5 +21,6 @@ The above web application should be deployed in the WampServer in order to run p
 
 7). After all this if your page loaded up with no errors then you can continue.
 
-8). Enjoy.
+Enjoy.
 
+Please follow these simple 7 steps for the application in order to deploy it and run it perfectly.
